@@ -1,0 +1,146 @@
+body {
+  background-image: url("paper.gif");
+  background-repeat: repeat;
+}
+
+#pg3 {
+  background-image: url("paper.gif");
+ background-repeat: no-repeat;
+  background-size:cover;
+  
+}
+
+
+.myDiv {
+  border: 5px outset black;
+  background-color: lightblue;    
+  text-align: left;
+}
+.myClass{
+  background: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99) ;
+	border: 5px outset black;
+	height: 70px;
+	width: 400px;
+	border: 5px solid black;
+	font-size: 18px;
+
+}
+
+#b2 {
+   color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#b2 {background-color: #4CAF50;} /* Green */
+#b2 {background-color: #008CBA;} /* Blue */
+
+
+
+#b1 {
+	  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#b1 {background-color: #4CAF50;} /* Green */
+#b1 {background-color: #008CBA;} /* Blue */
+
+
+.flex-container {
+	 display: flex;
+  
+}
+
+
+
+
+.life{
+	border: 5px outset black;
+	height: 200px;
+	width: 300px;
+	border: 5px solid black;
+	font-size: 18px;
+	text-align: center;
+	 /*margin-top: 100px;
+  margin-bottom: 200px;
+  margin-right: 150px;
+  margin-left: 80px;*/
+   margin: 200px;
+  padding: 40px;
+  border-radius: 90px;
+ background: linear-gradient(to right, #948e99, #2e1437)
+}
+
+.ouma {
+  border: 5px outset black;
+  height: 200px;
+  /*width: 600px;*/
+  border: 5px solid black;
+  font-size: 18px;
+  text-align: center;
+   /*margin-top: 100px;
+  margin-bottom: 200px;
+  margin-right: 150px;
+  margin-left: 80px;*/
+   margin:  20px;
+  padding: 40px;
+  border-radius: 40px;
+ background: linear-gradient(to right, #948e99, #2e1437)
+}
+
+#container {
+	display: flex;
+}
+
+/*.flex-container {
+  display: flex;
+}*/
+
+/*.life {
+	margin-top: 200px;
+    border: inset;
+    padding: 110px;
+    image-rendering: -webkit-optimize-contrast;
+    scroll-margin-block-end: initial;
+}*/
+
+#lala{
+	width: 1800px;
+    height: 800px;
+}
+
+#lima{
+	margin: unset;
+
+}
+
+#momo {
+	color: white;
+	
+	 border: 5px solid black;
+	 font-size: 25px !important;
+  /*padding: 10px;*/
+  width: 600px;
+  /*height: 90px;*/
+  /*font-size: 15px;*/
+  /*font-style: bold;*/
+
+  /*text-align: justify;*/
+   text-indent: 70px;
+}
+
+
+
+
